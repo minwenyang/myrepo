@@ -9,5 +9,7 @@ My research interests are:
 
 Here is a picture of me:
 
+Here is [link to my LinkedIn!](https://www.linkedin.com/in/minwen-yang/?locale=en_US)
+
 
 
