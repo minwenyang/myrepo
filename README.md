@@ -1,15 +1,17 @@
 # myrepo
 
-Hello, this is **Minwen Yang**, a MAPSS student focusing in Psychology. 
+## About me
+My name is **Minwen Yang**, and I am currently a MAPSS student concentrating in Psychology. I am from Beijing, China. I graduated from [Peking University](http://english.pku.edu.cn/), where I majored in psychology and economics. 
 
 My research interests are:
 * Judgment and decision making
 * Consumer Behavior
 * Social Psychology
 
+
 Here is a picture of me:
 
-Here is [link to my LinkedIn!](https://www.linkedin.com/in/minwen-yang/?locale=en_US)
 
+## Additional Resource
 
 
