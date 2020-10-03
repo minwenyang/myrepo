@@ -14,7 +14,7 @@ During my free time, I love to:
 * Travel
 
 Here is a picture of me when I am traveling in Kyoto:
-![Minwen](/Users/wendyyang/Desktop/GitHub/myrepo/IMG_6495.png)
+![Minwen](IMG_6495.png)
 
 ## Additional Resource
 Great computing course for new learners of R: [Computing for the Social Science](https://cfss.uchicago.edu/)
